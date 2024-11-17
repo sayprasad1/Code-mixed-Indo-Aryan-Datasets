@@ -10,8 +10,10 @@ We have chosen YouTube videos for data collection. Users gave their opinions or 
 
 **Description of the data**-
 Both datasets are of .CSV type. Both file containing three columns. The details and screenshot of the datasets are given below.
+**Marathi-English**-
 Marathi-English dataset has first column named as "Msg_without_Stopwords" containing Comments, second column has sentiment type stored in column named as "Nlabels". 
 ![image](https://github.com/user-attachments/assets/c534e16d-7a37-432e-8c02-428afc81d162)
 
+**Hindi-English**-
 Hindi-English dataset has first column named as "Msg_without_Stopwords" containing Comments, second column has sentiment type stored in column named as "label". 
 ![image](https://github.com/user-attachments/assets/f052102b-1cdb-4298-8d2b-6c9c747bc9c4)
